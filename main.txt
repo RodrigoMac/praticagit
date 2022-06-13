@@ -1,3 +1,5 @@
-essa é a branch 1 
+essa é a branch 2 
+
+gerada a partir da branch 1 
 
 outra linha aleatoria
